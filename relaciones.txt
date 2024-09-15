@@ -1,0 +1,31 @@
+Vehiculo:
+Marca (otra tabla), 
+categoria (otra tabla), 
+modelo, 
+año, 
+precio, 
+foto, 
+descripción
+fk Marca
+fk Categoria
+
+Marca:
+nombre
+
+Categoria:
+nombre
+
+vendedor:
+administrador
+cliente
+
+usuario:
+nombre
+correo
+rol
+
+veta
+fecha
+Vehiculo
+cliente
+vendedor
