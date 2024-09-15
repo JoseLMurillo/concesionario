@@ -12,7 +12,7 @@ function Nav() {
                 <div className="collapse navbar-collapse" id="navbarSupportedContent">
                     <ul className="navbar-nav me-auto mb-2 mb-lg-0">
                         <li><a className="nav-item"><Link to="/">Inicio</Link></a></li>
-                        <li><a className="nav-item"><Link to="/signup">Login</Link></a></li>
+                        <li><a className="nav-item"><Link to="/login">Login</Link></a></li>
                         <li><a className="nav-item"><Link to="/signup">Sign up</Link></a></li>
                         <li className="nav-item">
                             <a className="nav-link" href="#">Link</a>
